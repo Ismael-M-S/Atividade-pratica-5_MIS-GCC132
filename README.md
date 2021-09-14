@@ -1,8 +1,8 @@
 # Atividade-pratica-5_MIS-GCC132
 Atividade prática 5: Modelagem e Implementação de Software - GCC132
 
-### Exemplo de italico e/ou negrito
-Aqui esta o *italico*.<br>
+### Exemplo de itálico e/ou negrito
+Aqui esta o *itálico*.<br>
 Aqui esta o **negrito**.<br>
 Aqui esta **_ambos_**.<br>
 
@@ -16,10 +16,10 @@ for _ in range(int('inf')):
 ```
 
 ### Exemplo de listas
-- Topico qualquer.
-- Topico com subtopicos:
-   - Subtopico qualquer.
-- Outro topico qualquer.
+- Tópico qualquer.
+- Tópico com subtópicos:
+   - Subtópico qualquer.
+- Outro tópico qualquer.
 
 1. Este não é o terceiro item.
 2. Este não é o primeiro item.
