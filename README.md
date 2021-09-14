@@ -9,6 +9,12 @@ Aqui esta **_ambos_**.<br>
 ### Exemplo de codigo
 Este codigo não faz nada `$ swim -r`.
 
+> É tudo ou nada...
+```python
+for _ in range(int('inf')):
+    pass
+```
+
 ### Exemplo de listas
 - Topico qualquer.
 - Topico com subtopicos:
