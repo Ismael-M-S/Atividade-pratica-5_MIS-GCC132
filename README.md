@@ -7,7 +7,7 @@ Aqui esta o **negrito**.<br>
 Aqui esta **_ambos_**.<br>
 
 ### Exemplo de codigo
-Este codigo não faz nada `$ swim`.
+Este codigo não faz nada `$ swim -r`.
 
 ### Exemplo de listas
 - Topico qualquer.
