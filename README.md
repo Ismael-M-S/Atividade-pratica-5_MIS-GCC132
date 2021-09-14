@@ -23,3 +23,5 @@ Este codigo não faz nada `$ swim`.
 [Este link vai te mandar para o espaço](https://i1.wp.com/www.deviante.com.br/wp-content/uploads/2020/10/Direito-espacial.jpg?fit=1125%2C563 "Houston temos não nenhum problema")
 
 ![Fui tapeado!](https://fuitapeado.com.br/wp-content/uploads/2020/12/pica-pau-fui-tapeado-300x198.jpg "Não foi")
+
+![Ou será que não](https://i.pinimg.com/originals/64/40/21/6440213a8930ee9eff6c84c08aae4972.png "Já disse que não foi")
